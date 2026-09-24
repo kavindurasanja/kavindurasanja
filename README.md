@@ -2,9 +2,9 @@
 
 # Kavindu Rasanja
 
-### Software Developer · Desktop & Web Applications · Sri Lanka
+### Software Developer · Desktop, Business & Mobile Applications · Sri Lanka
 
-I build practical software for businesses and organizations, with a focus on clean interfaces, reliable workflows, offline/online systems, and Windows desktop delivery.
+I build practical software for real operational workflows — desktop applications, business-management systems, responsive web interfaces, and mobile products.
 
 [![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:rasanjakavindu54@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kavindurasanja-181717?style=flat-square&logo=github)](https://github.com/kavindurasanja)
@@ -15,69 +15,82 @@ I build practical software for businesses and organizations, with a focus on cle
 
 ## About
 
-I am a software developer focused on turning real operational needs into straightforward, usable applications. My work includes Windows desktop software, responsive web interfaces, business-management tools, local/offline workflows, and cloud-connected applications.
+I focus on turning real requirements into software that is straightforward to operate, practical to deploy, and polished enough for customers and organizations.
 
-I care about software that is easy to understand, practical to deploy, and polished enough to use with real customers.
+My work spans Windows desktop applications, business systems, cloud-connected workflows, offline-first products, mobile applications, debugging, packaging and release preparation.
 
-## Featured Work
+## Flagship Projects
 
 ### ScreenPro — Windows Screen Recorder
 
-A desktop screen-recording application designed for practical content-creation workflows.
+A desktop screen-recording project designed for practical creator workflows.
 
-- Windows desktop application
-- High-quality screen capture
-- System audio and microphone recording workflow
-- Vertical / 9:16 capture workflow for short-form content
-- Desktop-focused interface and packaging
-- Commercial project — source and distribution repository kept private
+- High-quality desktop capture
+- System audio and microphone workflow
+- Vertical / 9:16 recording
+- Mouse-focused capture workflow
+- Windows desktop packaging
+- Commercial/private-source project
 
-**Focus:** desktop engineering, capture workflows, usability, packaging
+**Focus:** Desktop engineering · Capture workflows · Product UX · Packaging
 
 ---
 
 ### [School Bell System](https://github.com/kavindurasanja/school-bell-system)
 
-An automated bell-management solution for schools and institutes.
+Automated bell-management software for schools and institutes.
 
-- Automatic timetable-based bell scheduling
-- Manual and automatic operation
+- Timetable-based automatic bell scheduling
+- Manual bell controls
 - Multiple bell / audio events
 - Offline operation
 - Windows-oriented deployment
-- Simple interface designed for day-to-day school use
+- Operator-friendly interface
 
-**Focus:** automation, scheduling, desktop UX, reliable offline operation
+**Focus:** Automation · Scheduling · Offline desktop software · Reliability
+
+## Recent Work
+
+| Project | What it solves | Focus |
+|---|---|---|
+| **[Repair PRO](projects/repair-pro.md)** | Repair-shop tickets, customers, technicians, payments, printing and multi-branch workflows | Electron · Firebase · Business software |
+| **[NexaCore ERP](projects/nexacore-erp.md)** | Inventory, POS, purchasing, employees, reporting and business operations | ERP/POS · Electron · Firebase |
+| **[StudyFlow LK](projects/studyflow-lk.md)** | Timetables, focus sessions, exam planning and study-progress tracking | Android · Offline-first productivity |
+| **[HithaKiyanna](projects/hithakiyanna.md)** | Anonymous mobile conversations with lightweight connection history | Mobile · Capacitor · Supabase |
+
+> Commercial and private-source projects are documented as portfolio case studies without publishing production source code, credentials or client configuration.
 
 ## Core Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,firebase,git,github,vscode" alt="Core technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,firebase,supabase,git,github,vscode" alt="Core technologies" />
 </p>
 
 **Desktop:** Electron, Python, Windows application packaging  
 **Web:** HTML, CSS, JavaScript, responsive interfaces  
-**Cloud & Data:** Firebase / Firestore, local-first and offline workflows  
-**Workflow:** Git, GitHub, debugging, deployment and release preparation
+**Cloud & Data:** Firebase / Firestore, Supabase, local-first workflows  
+**Mobile:** Android-oriented hybrid and offline-first application workflows  
+**Delivery:** Git, GitHub, debugging, deployment, installers and release preparation
 
 ## What I Build
 
 | Area | Examples |
 |---|---|
-| Business Software | Management systems, invoicing, inventory and workflow tools |
+| Business Software | ERP, POS, repair management, invoicing and operational tools |
 | Desktop Applications | Electron and Python-based Windows applications |
-| Web Applications | Responsive interfaces and Firebase-connected systems |
-| Automation | Scheduled workflows, operational tools and utility software |
+| Mobile Applications | Productivity, messaging and utility applications |
+| Web Applications | Responsive interfaces and cloud-connected systems |
+| Automation | Scheduling, alerts and operational workflows |
 | Product Delivery | UI refinement, debugging, packaging and release preparation |
 
 ## Work With Me
 
-I am open to freelance projects, product-development work, and software opportunities where practical problem solving and clean delivery matter.
+I am open to freelance projects, software-development opportunities and product work where practical problem solving and clean delivery matter.
 
 **Email:** [rasanjakavindu54@gmail.com](mailto:rasanjakavindu54@gmail.com)
 
 ---
 
 <div align="center">
-  <sub>Build useful software. Keep the experience simple. Ship it reliably.</sub>
+  <sub>Practical software · Clean workflows · Reliable delivery</sub>
 </div>
